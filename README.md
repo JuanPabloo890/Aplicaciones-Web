@@ -1,4 +1,4 @@
-# objetos-arreglos --- Laboratorio 4
+# dom-async --- Laboratorio 5
 
 # Integrantes del Grupo
 * Jared Valenzuela
