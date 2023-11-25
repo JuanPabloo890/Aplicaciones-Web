@@ -1,4 +1,4 @@
-# objetos-arreglos --- Laboratorio 4
+# ApiPokemon --- Laboratorio 2
 
 # Integrantes del Grupo
 * Jared Valenzuela
